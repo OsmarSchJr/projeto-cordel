@@ -1,0 +1,26 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+header h1 {
+    padding: 20px 0px;
+    margin: 0px;
+}
+
+header p {
+    padding: 20px;
+    margin: 0px;
+}
+
+header a {
+    color:  white;
+    
+}
